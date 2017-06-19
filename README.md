@@ -1,6 +1,6 @@
 # rating-star 星级评分效果
  
-简单 实现代码：
+//简单 实现代码：
   var rating = (function() {
 	    	// 封装函数
 	    	function lightOn($item,num) {
